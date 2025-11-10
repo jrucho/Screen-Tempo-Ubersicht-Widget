@@ -16,7 +16,7 @@ Range: 20 – 300 BPM.
  bpm: 120          # default speed
 --mint: #CFE9DD   # accent colour
 
-# Credits
+# Credit
 Original idea: Carlos Abeijón Martínez
 
 # License
