@@ -1,5 +1,5 @@
 # ------------------------------------------------------------
-# CONSTANT FULLSCREEN METRONOME — Übersicht
+# Screen Tempo — Übersicht
 # Visual pulse synced to BPM, optional click sound (OFF by default)
 # Author: Carlos Abeijón Martínez
 # ------------------------------------------------------------
